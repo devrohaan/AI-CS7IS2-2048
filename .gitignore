@@ -1,0 +1,13 @@
+venv
+*.log
+*.aux
+*.pdf
+*.gz
+2048/__pycache__/*
+.idea
+.ipynb_checkpoints
+.DS_Store
+.vscode
+2048/bin/*
+2048/lib/*
+pyvenv.cfg
